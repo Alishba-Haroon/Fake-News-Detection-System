@@ -33,7 +33,7 @@ Fake-News-Detection-System/
 
 ### Main Page
 
-![Main Page](static/2.png)
+![Main Page](static/5.png)
 
 ### Prediction: Fake News
 
