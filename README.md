@@ -14,21 +14,6 @@ It provides a user-friendly web interface to classify news as fake or true using
 
 ---
 
-## Project Structure
-
-Fake-News-Detection-System/
-│
-├── app.py # Flask application script
-├── train_model.py # Model training script
-├── model/ # Trained machine learning models (.pkl files)
-├── static/ # Static files (CSS, JavaScript, images)
-│ ├── phote.png # background image
-├── templates/ # HTML template files
-├── README.md # Project documentation (this file)
-└── requirements.txt # Python dependencies
-
----
-
 ## Sample Screenshots
 
 ### Main Page
